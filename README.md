@@ -2,7 +2,7 @@
 
 An intuitive, web-based photo editing application that leverages the power of Google's Gemini AI to transform your images based on simple text prompts. Upload a photo, describe your desired changes, and watch the AI bring your vision to life in seconds.
 
-![AI Photo Editor Screenshot](https://storage.googleapis.com/aistudio-hosting/project-images/2e6242c7-2c94-44b2-a4f6-829d5926593a/screenshot.png)
+![AI Photo Editor Screenshot](https://storage.googleapis.com/aistudio-hosting/project-images/screenshot.png)
 
 ## 🚀 Features
 
